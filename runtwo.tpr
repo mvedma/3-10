@@ -1,4 +1,3 @@
-
 Connect "rfb://10.1.32.90:5900" password="gwnr00t"
 Mouse "move" to="x:1244,y:623"
 Wait 10s
@@ -6,5 +5,5 @@ Press "ctrl+l"
 Wait 10s
 Type "google.com"
 Press enter
-
+Dordc "getpage https://www.google.com"
 
