@@ -1,0 +1,4 @@
+Connect "rfb://10.1.32.90:5900" password="gwnr00t"
+Dordc "getpage https://www.google.com"
+wait 10s
+Dordc "getpage https://www.youtube.com"
